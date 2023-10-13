@@ -1,0 +1,25 @@
+body {
+    background-color: #140414;
+}
+
+h1 {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #cc96a2;
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #5f2f3d;
+}
+
+.row {
+    text-align: center;
+}
+
+img {
+    border: 3px solid #fbab7c;
+    padding: 10px;
+    margin: 1%;
+}
